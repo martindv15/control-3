@@ -7,6 +7,9 @@ Original file is located at
     https://colab.research.google.com/drive/1QSopj7t_8syc7DMb6aL2dv0yoqWfmd5H
 """
 
+!pip install streamlit
+!pip install pyngrok
+
 import streamlit as st
 import pandas as pd
 import matplotlib.pyplot as plt
